@@ -1,0 +1,16 @@
+<form (ngSubmit)="onSubmit()">
+    <div class="form-control">
+        <label for="text"> Project</label>
+        <input type="text" name="text" [(ngModel)]="text" id="text" placeholder="Add project">
+    </div>
+    <div class="form-control">
+        <label for="start"> Date</label>
+        <input type="text" name="start" [(ngModel)]="start" id="start" placeholder="From">
+    </div>
+    <div class="form-control">
+        <label for="end"> Date</label>
+        <input type="text" name="end" [(ngModel)]="end" id="end" placeholder="To">
+    </div>
+    <input type="submit" value="Add Project" class="btn btn-block" />
+</form>
+

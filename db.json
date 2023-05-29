@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "text": "Magical Program",
+      "start": "May 5th 2000",
+      "end": "January 7th 2002"
+    },
+    {
+      "id": 2,
+      "text": "Bing",
+      "start": "December 25th 2003",
+      "end": "June 4th 2010"
+    },
+    {
+      "id": 3,
+      "text": "Temple OS",
+      "start": "December 31st 2011",
+      "end": "January 1st 2012"
+    },
+    {
+      "text": "AskJeeves",
+      "start": "June 3rd 1996",
+      "end": "October 21st 2006",
+      "id": 4
+    }
+  ]
+}
